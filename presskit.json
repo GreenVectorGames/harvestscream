@@ -1,0 +1,30 @@
+{
+  "game": {
+    "title": "Harvest Scream",
+    "tagline": "Short Description",
+    "short_description": "Farm by day, fix by night. A first-person farming horror where peaceful labor collides with terrifying anomaly hunts after dark. Gather resources, survive the monsters, and uncover the truth behind the corrupted simulation.",
+    "long_description": "<strong>Escape the routine. Face the anomaly. Survive the farm.</strong><p>In Harvest Scream, you wake up in a lifeless office after endless hours of work. Your phone rings – your boss demands more, despite your exhaustion. After a bitter argument, you quit. But freedom never comes easy. Instead, you’re sent into Simulation Null – a corrupted farming world where everything broken, glitched, or unwanted from reality is discarded.</p><p>By day, you tend the farm. You plant, harvest, fish, care for bees, and try to build a life worth living. By night, you must venture into the forest, navigating through lurking monsters to hunt down anomalies – distortions born from the cracks of the simulation. Fixing them is the only way to restore balance and bring yourself closer to escape.</p><p>But farming is not your only challenge. Strange encounters, shifting weather, emotional choices, and a mysterious love story will test your sense of reality. Can you truly trust the people you meet, or are they part of the simulation’s deception?</p><p><strong>Your goals are simple:</strong></p><ul><li>Earn enough money through farming, fishing, and other activities.</li><li>Repair all anomalies hidden in the corrupted world.</li><li>Discover the truth behind Simulation Null… and escape before it consumes you.</li></ul><p><strong>Key Features:</strong></p><ul><li>A haunting mix of farming life simulation and survival horror</li><li>Dynamic day and night cycle – farm under the sun, survive the horrors of night</li><li>Fishing, farming, beekeeping, animal care and more peaceful activities</li><li>Anomaly hunts – locate and fix corrupted entities hidden deep in the forest</li><li>Monsters and dangers that stalk you when darkness falls</li><li>Emotional storytelling blending burnout, freedom, and love</li><li>A mysterious romance that may not be what it seems</li><li>Dynamic weather system shaping atmosphere and survival</li></ul><p>Will you find happiness in farming, or be consumed by the simulation’s horrors? The choice is yours – if you can survive long enough to make it.</p>",
+    "genres": [
+      "Horror",
+      "Farming Sim",
+      "Adventure"
+    ],
+    "modes": [
+      "Single-player"
+    ],
+    "release_date": "Q4 2025",
+    "platforms": [
+      "Windows"
+    ]
+  },
+  "studio": {
+    "name": "Green Vector Games",
+    "contact": {
+      "Twitter": "https://x.com/GreenVectorGame",
+      "Discord": "https://discord.gg/MGNStc5Y55"
+    }
+  },
+  "media": {
+    "cover": "assets/CapsuleArt.png"
+  }
+}
