@@ -1,5 +1,8 @@
 {
   "game": {
+    "game_url": "https://store.steampowered.com/app/3636520/Harvest_Scream",
+    "widgetreftourl": "<iframe src=\"https://store.steampowered.com/widget/3636520/\" frameborder=\"0\" width=\"100%\" height=\"190\"></iframe>",
+    "presskiturl": "https://drive.google.com/file/d/1VC9IAR56hPc_j-18iUrD03mbi05sLOAO/view",
     "title": "Harvest Scream",
     "tagline": "Short Description",
     "short_description": "Farm by day, fix by night. A first-person farming horror where peaceful labor collides with terrifying anomaly hunts after dark. Gather resources, survive the monsters, and uncover the truth behind the corrupted simulation.",
@@ -12,7 +15,11 @@
     "modes": [
       "Single-player"
     ],
+    "team_size": "1 Person",
+    "development_time": "2 Years",
+    "game_engine": "Unreal Engine 5 (Version 5.6)",
     "release_date": "Q4 2025",
+    "development_status": "In development",
     "platforms": [
       "Windows"
     ]
