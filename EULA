@@ -10,19 +10,22 @@ Developer grants you a personal, non-exclusive, non-transferable, revocable lice
 2. INTELLECTUAL PROPERTY
 All content of the Software (code, graphics, audio, models, assets, interfaces, characters, animations) is owned by Developer or its licensors. You do not acquire ownership. Copying, modifying, selling, or redistributing Software content without permission is prohibited.
 
-3. PLATFORM REQUIREMENTS
+3. UNREAL® ENGINE DISCLAIMER
+This Software was created using Unreal® Engine 5. Unreal® Engine and its related trademarks are owned by Epic Games, Inc. Epic Games, Inc. makes no representations or warranties regarding this Software and shall not be liable for any claims, damages, or other liabilities arising from its use.
+
+4. PLATFORM REQUIREMENTS
 Software is distributed via Steam and requires a valid Steam account and client. Developer is not responsible for Steam-related issues. This Agreement is subject to the Steam Subscriber Agreement (SSA). All financial transactions and refunds are handled exclusively through the Steam platform.
 
-4. AGE REQUIREMENT
+5. AGE REQUIREMENT
 Users must be at least 13 years of age or meet the local legal minimum age in their jurisdiction. Users under the age of 18 require parent or legal guardian consent to use the Software.
 
-5. MULTIPLAYER AND NETWORKING
+6. MULTIPLAYER AND NETWORKING
 Peer-to-peer (P2P) multiplayer may expose your IP address to other players. Developer does not monitor all real-time interactions or user-generated content (chat, usernames, etc.). Users are solely responsible for their online conduct. Use of networking features is at your own risk.
 
-6. ONLINE SERVICES
+7. ONLINE SERVICES
 Online features may be modified, suspended, or removed at any time without notice. Developer provides no guarantee of uptime, security, or error-free performance of online services.
 
-7. USER CONDUCT
+8. USER CONDUCT
 Users must not:
 - Reverse engineer, decompile, or access source code.
 - Use cheats, hacks, automation software, or bots.
@@ -31,41 +34,43 @@ Users must not:
 - Use the Software for any illegal purposes.
 - Extract, redistribute, or sell Software assets.
 
-8. MODIFICATIONS AND COMMUNITY CONTENT
+9. MODIFICATIONS AND COMMUNITY CONTENT
 Non-commercial videos, streams, or mods are allowed. Furthermore, Developer grants permission for Users to monetize (via advertisements or donations) video content or live streams featuring "Harvest Scream" on platforms such as YouTube, Twitch, and similar services. However:
 - The Software itself (game files) must not be redistributed.
 - Game assets (audio, 3D models, textures) must not be sold or distributed separately.
 - You may not claim ownership of the Software or its assets within your content.
 
-9. AI TRAINING AND DATA SCRAPING PROHIBITION
+10. AI TRAINING AND DATA SCRAPING PROHIBITION
 STRICT PROHIBITION: The Software, its assets, and any data generated through its use may NOT be used for Artificial Intelligence (AI) training, machine learning, data mining, or scraping without express written permission from the Developer.
 
-10. ENFORCEMENT AND USER RESTRICTIONS
+11. ENFORCEMENT AND USER RESTRICTIONS
 Developer reserves the right to suspend or permanently ban users for violations of this Agreement. Technical measures, including account restrictions or Hardware ID (HWID) blocking, may be applied in accordance with applicable laws.
 
-11. HEALTH AND PSYCHOLOGICAL WARNING; ASSUMPTION OF RISK
+12. HEALTH AND PSYCHOLOGICAL WARNING; ASSUMPTION OF RISK
 Your health and safety are our top priority. As 'Harvest Scream' is an intense horror experience, please be aware of the following...
 - PHOTOSENSITIVITY: The Software contains flashing lights, intense visual effects, and patterns that may cause seizures, dizziness, or loss of consciousness.
 - PSYCHOLOGICAL IMPACT: As a horror game, the Software contains jumpscares, disturbing imagery, and intense psychological themes. 
 - USER RESPONSIBILITY: By using the Software, you acknowledge these risks and voluntarily assume full responsibility for any physical, mental, or emotional harm that may arise. Developer is not liable for any health-related incidents. If you or any member of your household has a history of epilepsy or mental health sensitivity, consult a physician before playing. If you experience any discomfort, stop playing immediately.
 
-12. PRIVACY
+13. PRIVACY
 Limited technical data may be processed for gameplay functionality. Personal data collection is minimized and handled per our Privacy Policy, which can be found at: https://raw.githubusercontent.com/GreenVectorGames/harvestscream/refs/heads/main/PrivacyPolicy. Compliance with KVKK, GDPR, CCPA/CPRA, PIPL, POPIA, and other local data protection laws is ensured where applicable.
 
-13. NO WARRANTY
+14. NO WARRANTY
 The Software is provided "AS IS" without any express or implied warranties. Developer does not guarantee performance, reliability, availability, or compatibility with your specific hardware/software.
 
-14. LIMITATION OF LIABILITY
+15. LIMITATION OF LIABILITY
 To the maximum extent permitted by law, Developer is not liable for data loss, profit loss, hardware damage, system failures, or personal injury related to the use or inability to use the Software.
 
-15. UPDATES AND MODIFICATIONS
+16. UPDATES AND MODIFICATIONS
 Developer may update, patch, or modify the Software at any time. Continued use of the Software after an update constitutes acceptance of the changes.
 
-16. TERMINATION
+17. TERMINATION
 This license terminates automatically if you violate any terms of this Agreement. You must cease all use and delete the Software immediately upon termination.
 
-17. GOVERNING LAW AND LANGUAGE
+18. GOVERNING LAW AND LANGUAGE
 This Agreement applies globally. Users are subject to local laws regarding consumer rights. Disputes shall be resolved in the courts of Istanbul, Turkey. This Agreement is written in English; in the event of any conflict between the English version and any translation, the English version shall prevail.
 
-18. CONTACT
+19. CONTACT
 For support or inquiries, please use the official social media links and community channels provided on the "Green Vector Games" Developer Page on Steam or our official support channels.
+
+Copyright © 2025 Green Vector Games. All rights reserved.
