@@ -12,7 +12,8 @@ The Software is distributed exclusively through Steam. Therefore, your use of th
 - Steam ID and Profile Name.
 - Gameplay statistics, achievements, and playtime.
 - Hardware specifications and crash reports.
-Developer only accesses non-identifiable, aggregated technical data provided by the Steam API to improve Software performance. For more details on how Valve handles your data, please refer to the official Steam Privacy Policy: https://store.steampowered.com/privacy_agreement/
+Developer only accesses non-identifiable, aggregated technical data provided by the Steam API to improve Software performance. For more details on how Valve handles your data, please refer to the official Steam Privacy Policy: https://store.steampowered.com/privacy_agreement/ .
+Epic Games (Unreal Engine): Technical data, including hardware specifications and crash reports, may be processed to ensure engine stability. Epic Games Privacy Policy: https://legal.epicgames.com/en-US/epicgames/privacy-policy .
 
 3. MULTIPLAYER AND PEER-TO-PEER (P2P) NETWORKING
 "Harvest Scream" features multiplayer functionality via Peer-to-Peer (P2P) technology. 
