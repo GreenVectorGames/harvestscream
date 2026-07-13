@@ -43,7 +43,7 @@ async function loadPresskit() {
 
   document.getElementById('studio').textContent = `${s.name} (Using Discord for Contact)`;
   const contacts = s.contact || {};
-  document.getElementById('contacts').innerHTML = Object.entries(contacts).filter(([k, v]) => v).map(([k, v]) => `<li><a class='brand' target='_blank' href='${v}'>${k}</a></li>`).join('');
+  document.getElementById('contacts').innerHTML = Object.entries(contacts).filter(([k, v]) => v).map(([k, v]) => `<li><strong>${k}</strong><br><a class='brand' target='_blank' href='${k.toLowerCase() === 'email' ? 'mailto:' + v : v}'>${v}</a></li>`).join('');
 
   document.getElementById('important').innerHTML = data.important || "";
   
