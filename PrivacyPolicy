@@ -7,21 +7,26 @@ Green Vector Games ("Developer", "we", "us", or "our") is committed to protectin
 1. DATA MINIMIZATION PRINCIPLE
 We adhere to the principle of data minimization. Developer does not maintain private servers to collect, store, or sell your personal identity information (such as real names, physical addresses, or email addresses). All primary gameplay data, cloud saves, and account management are handled through the Steam platform.
 
-2. INFORMATION HANDLED BY THIRD PARTIES (STEAM)
-The Software is distributed exclusively through Steam. Therefore, your use of the Software is subject to the Steam Subscriber Agreement and Valve Corporation’s Privacy Policy. Valve may collect data including but not limited to:
-- Steam ID and Profile Name.
-- Gameplay statistics, achievements, and playtime.
-- Hardware specifications and crash reports.
-Developer only accesses non-identifiable, aggregated technical data provided by the Steam API to improve Software performance. For more details on how Valve handles your data, please refer to the official Steam Privacy Policy: https://store.steampowered.com/privacy_agreement/ .
-Epic Games (Unreal Engine): Technical data, including hardware specifications and crash reports, may be processed to ensure engine stability. Epic Games Privacy Policy: https://legal.epicgames.com/en-US/epicgames/privacy-policy .
+2. INFORMATION HANDLED BY THIRD PARTIES (STEAM) & STEAM INTEGRATION
+The Software is distributed exclusively through Steam and uses the Steamworks API to deliver core gameplay, multiplayer, and social features. 
+
+To facilitate co-op matchmaking, peer-to-peer networking, and online features, the Software locally processes and may display your public community data and game-related metrics (including, but not limited to, your Steam Persona Name (username), Steam Avatar, Steam ID, Steam Achievements, and in-game statistics) to you and other players across any and all game menus, screens, and user interfaces. 
+
+Furthermore, the Software interacts directly with Steam Services to update and display:
+- Steam Achievements
+- Steam Leaderboards (rankings, scores, and related statistics)
+
+Developer does NOT harvest, store, or maintain this personal or public profile data on any private external server. All such data is processed in real-time via the Steam API to provide the intended multiplayer and cooperative experience. Your use of these features is subject to Valve Corporation’s Privacy Policy: https://store.steampowered.com/privacy_agreement/
+
+Epic Games (Unreal Engine): The Software is developed using Unreal® Engine 5. Technical data, including hardware specifications, system performance logs, and crash reports, may be processed by Epic Games to ensure engine stability and help optimize software performance. For more details on how this data is handled, please refer to the Epic Games Privacy Policy: https://legal.epicgames.com/en-US/epicgames/privacy-policy .
 
 3. MULTIPLAYER AND PEER-TO-PEER (P2P) NETWORKING
 "Harvest Scream" features multiplayer functionality via Peer-to-Peer (P2P) technology. 
 - IP ADDRESS EXPOSURE: By using multiplayer features, you acknowledge that your IP address may be visible to other players in the same session to establish a network connection. 
 - NO TRACKING: Developer does not track, log, or store these IP addresses on any external database. Use of multiplayer features is at your own risk.
 
-4. USER-GENERATED CONTENT (UGC)
-Any information shared via in-game chat, character names, or other communication tools is public within the game session. We do not monitor or store these interactions. Users are advised not to share sensitive personal information in-game.
+4. USER-GENERATED CONTENT (UGC) AND SOCIAL VISIBILITY
+Any information shared via in-game text/voice chat, farm names, or custom character names is broadcasted directly to other players within your game session due to the Peer-to-Peer (P2P) nature of the game. Additionally, your Steam profile name and leaderboard scores are publicly displayed as part of the game's competitive and cooperative features. We do not monitor, log, or store these live interactions or display data. Users are strictly advised not to share sensitive personal information (such as real names, phone numbers, or addresses) in-game.
 
 5. DATA SECURITY
 While we do not store personal data on our own servers, we take reasonable measures to ensure the Software interacts securely with the Steam API. However, no method of transmission over the internet or electronic storage is 100% secure.
@@ -43,4 +48,4 @@ This Privacy Policy is governed by the laws of the Republic of Turkey. Any dispu
 Developer reserves the right to update this Privacy Policy at any time. Continued use of the Software after an update constitutes acceptance of the new terms.
 
 10. CONTACT
-For privacy inquiries, please use the official social media links and community channels provided on the "Green Vector Games" Developer Page on Steam.
+For privacy inquiries, data requests, or questions regarding this Privacy Policy, please contact us directly via email at: "greenvectorgames.info@proton.me".
