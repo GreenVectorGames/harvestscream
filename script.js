@@ -45,6 +45,8 @@ async function loadPresskit() {
   const contacts = s.contact || {};
   document.getElementById('contacts').innerHTML = Object.entries(contacts).filter(([k, v]) => v).map(([k, v]) => `<li><a class='brand' target='_blank' href='${v}'>${k}</a></li>`).join('');
 
+  document.getElementById('important').innerHTML = data.important || "";
+  
   document.getElementById('lastUpdated').textContent = "Last Updated: 2026-07-13";
 }
 
