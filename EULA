@@ -16,6 +16,11 @@ This Software was created using Unreal® Engine 5. Unreal® Engine and its relat
 4. PLATFORM REQUIREMENTS
 Software is distributed via Steam and requires a valid Steam account and client. Developer is not responsible for Steam-related issues. This Agreement is subject to the Steam Subscriber Agreement (SSA). All financial transactions and refunds are handled exclusively through the Steam platform.
 
+4.1 GAME LIFECYCLE, UPDATES, AND POTENTIAL DATA RESETS
+You acknowledge that the Software is subject to change and may receive patches, updates, or modifications from time to time, including during its Early Access phase. If and when updates are deployed—whether to maintain game stability, ensure a fair competitive environment, enforce anti-cheat measures, implement seasonal content, or perform technical overhauls—it may become necessary to modify, reset, or update in-game progress, save files, character data, statistics, achievements, or Steam Leaderboards.
+
+While Developer aims to protect player efforts and avoid unnecessary disruptions, Developer reserves the right to perform these adjustments during both Early Access and Full Release phases when required for the game's operational functionality. You agree that such updates, if any, are intended to provide a functional and fair experience, and Developer shall not be liable for any loss of in-game progress or perceived virtual value.
+
 5. AGE REQUIREMENT
 Users must be at least 13 years of age or meet the local legal minimum age in their jurisdiction. Users under the age of 18 require parent or legal guardian consent to use the Software.
 
@@ -67,14 +72,20 @@ Developer may update, patch, or modify the Software at any time. Continued use o
 17. TERMINATION
 This license terminates automatically if you violate any terms of this Agreement. You must cease all use and delete the Software immediately upon termination.
 
-18. GOVERNING LAW AND LANGUAGE
-This Agreement applies globally. Users are subject to local laws regarding consumer rights. Disputes shall be resolved in the courts of Istanbul, Turkey. This Agreement is written in English; in the event of any conflict between the English version and any translation, the English version shall prevail.
+18. GOVERNING LAW, DISPUTE RESOLUTION, AND CLASS ACTION WAIVER
+This Agreement applies globally. Users are subject to local laws regarding consumer rights. Disputes shall be resolved exclusively in the courts of Istanbul, Turkey. 
+
+CLASS ACTION WAIVER: TO the maximum extent permitted by applicable law, you and Developer agree that any dispute resolution proceedings will be conducted solely on an individual basis and NOT in a class, consolidated, or representative action. You explicitly waive your right to participate in any class-action lawsuits against the Developer. 
+
+This Agreement is written in English; in the event of any conflict between the English version and any translation, the English version shall prevail.
 
 19. CONTACT
-For support or inquiries, please use the official social media links and community channels provided on the "Green Vector Games" Developer Page on Steam or our official support channels.
+For support, privacy inquiries, or legal concerns, please contact us directly via email at: "greenvectorgames.info@proton.me".
 
-20. USER-GENERATED CONTENT (UGC) AND CONDUCT
-The Software may allow Users to create, upload, or transmit content, including but not limited to character names, farm names, chat messages, and other in-game customizations ("User-Generated Content" or "UGC").
+20. USER-GENERATED CONTENT (UGC), CONDUCT, AND STEAM INTEGRATION
+The Software utilizes Steam API features to enable multiplayer functionality and social interactions, and may allow Users to create, upload, or transmit content, including but not limited to character names, farm names, chat messages, and other in-game customizations ("User-Generated Content" or "UGC").
+
+- Steam Integration and Profile Visibility: By using the Software, you explicitly acknowledge and agree that your Steam profile information, public community data, and game-related metrics (including, but not limited to, your Steam Persona Name (username), Steam Avatar, Steam ID, Steam Achievements, and in-game statistics such as high scores or leaderboard rankings) will be processed by the Software and may be displayed or visible to other players across any and all game menus, screens, and user interfaces (including, but not limited to, the main menu, multiplayer lobbies, matchmaking screens, loading screens, peer-to-peer sessions, public Steam Leaderboards, and the in-game Pause Menu).
 - User Responsibility and Indemnity: You are solely responsible for the UGC you create. You are strictly prohibited from creating UGC that is illegal, defamatory, obscene, harassing, or that infringes upon the intellectual property rights (trademarks, copyrights, etc.) of any third party (e.g., brands, celebrities, or political entities). You agree to indemnify and hold Green Vector Games harmless from any legal claims or damages arising from your UGC.
 - Technical Limitation (P2P): You acknowledge that "Harvest Scream" utilizes peer-to-peer (P2P) networking. Consequently, most UGC and real-time interactions are transmitted directly between players. Developer has no technical access to, and does not monitor, modify, or log these private transmissions or locally stored data. You use these features at your own risk.
 - Public Features and Monitoring: For any UGC visible on public platforms (e.g., Steam Leaderboards, Rankings, or Community Hubs), Developer reserves the right—but does not have the obligation—to censor, modify, or permanently remove such content and restrict user access at its sole discretion, without prior notice.
