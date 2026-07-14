@@ -2,7 +2,7 @@
   "game": {
     "game_url": "https://store.steampowered.com/app/3636520/Harvest_Scream",
     "widgetreftourl": "<iframe src=\"https://store.steampowered.com/widget/3636520/\" frameborder=\"0\" width=\"100%\" height=\"190\"></iframe>",
-    "presskiturl": "https://github.com/GreenVectorGames/presskits/raw/refs/heads/main/HarvestScream/HarvestScream-PressKit.zip",
+    "presskiturl": "https://github.com/GreenVectorGames/HarvestScream-PressKit/raw/refs/heads/main/HarvestScream-PressKit.zip",
     "title": "Harvest Scream",
     "tagline": "Short Description",
     "short_description": "A co-op farming horror game about raiding unstable dimensions for seeds to grow and harvest for a hungry monster's daily quota.",
@@ -34,7 +34,7 @@
       "Email": "greenvectorgames.info@proton.me"
     }
   },
-  "important": "<p>I love working with real influencers! To get a Steam key, please email me from your <strong>official business email<\/strong> linked to your YouTube\/Twitch channel.<\/p><ul><li><strong>How to Apply:<\/strong> Please include your channel links and exact usernames (YouTube handles, Twitch channel names, etc.) in your email.<\/li><li><strong>Verification Policy:<\/strong> I manually review all channels for active video uploads, stream history, and organic audience engagement. High-subscriber channels with dead engagement or bot comments will be filtered out.<\/li><\/ul>",
+  "important": "<p>I love working with content creators! To get a Steam key, please email me from your <strong>official business email<\/strong> linked to your YouTube\/Twitch channel.<\/p><ul><li><strong>How to Apply:<\/strong> Please include your channel links and exact usernames (YouTube handles, Twitch channel names, etc.) in your email.<\/li><li><strong>Verification Policy:<\/strong> I manually review all channels for active video uploads, stream history, and organic audience engagement. High-subscriber channels with dead engagement or bot comments will be filtered out.<\/li><\/ul>",
   "media": {
     "cover": "assets/maincapsule.png"
   }
