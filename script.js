@@ -46,7 +46,7 @@ async function loadPresskit() {
 
   document.getElementById('important').innerHTML = data.important || "";
   
-  document.getElementById('lastUpdated').textContent = "Last Updated: 2026-07-13";
+  document.getElementById('lastUpdated').textContent = "Last Updated: 2026-07-16";
 }
 
 loadPresskit();
